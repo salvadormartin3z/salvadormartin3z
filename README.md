@@ -8,7 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="salvadormartn3z | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/salvadormartn3z]
-[<img align="left" alt="Salvador Martinez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/salvador-martinez-85a09b198/]
+[<img align="left" alt="salvadormartn3z | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Salvador Martinez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+[twitter]: https://twitter.com/salvadormartn3z
+[linkedin]:  https://www.linkedin.com/in/salvador-martinez-85a09b198/
