@@ -2,7 +2,7 @@
 
 ### Software Developer!!
 
-- 🔭 I’m currently working on Frontend
+- 🔭 I'm currently working on Frontend and Mobile development
 - 🌱 I’m currently learning M.L.
 - 👯 I’m looking to collaborate
 
