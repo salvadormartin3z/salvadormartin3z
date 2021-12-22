@@ -2,8 +2,8 @@
 
 ### Software Developer!!
 
-- 🔭 I'm currently working on Frontend, Backend and Mobile development
-- 🌱 I’m currently learning M.L.
+- 🔭 I'm currently working with data.
+- 🌱 I used to work in web development and creating video games.
 - 👯 I’m looking to collaborate
 
 ### Connect with me:
