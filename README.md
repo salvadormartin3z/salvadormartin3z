@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-### Software Developer!!
+### Data Engineer!!
 
 - 🔭 I'm currently working with data.
 - 🌱 I used to work in web development and creating video games.
