@@ -1,5 +1,4 @@
 ### Hi there 👋 
 
-- 🔭 I'm currently working with data.
-- 🌱 I used to work in web development and creating video games.
-- 👯 I’m looking to collaborate
+- 🔭 Highly interested in Machine Learning and Software Development.
+- 🌱 I like challenges, collaborating with others, and learning new things.
