@@ -5,8 +5,9 @@
 
 ### Portafolio
 
-https://salvadormartin3z.netlify.app/
+- https://salvadormartin3z.netlify.app/
 
 ### LinkedIn
 
+- ![image](https://github.com/salvadormartin3z/salvadormartin3z/assets/67123399/387284e0-abe1-40a0-b0ad-5fd45f8962f2)
 https://www.linkedin.com/in/salvadormtz/
