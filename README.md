@@ -24,6 +24,5 @@
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 ![Jupyter Notebook](https://img.icons8.com/fluency/48/jupyter.png)
-![Scikit-Learn](https://img.icons8.com/color/48/000000/scikit-learn.png)
 ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
