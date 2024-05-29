@@ -7,7 +7,7 @@
 
 ## [![LinkedIn](https://img.icons8.com/color/18/000000/linkedin.png) LinkedIn](https://www.linkedin.com/in/salvadormtz/)
 
-## Some of My Technologies
+Some of My Technologies
 
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
