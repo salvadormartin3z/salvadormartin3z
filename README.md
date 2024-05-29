@@ -14,7 +14,7 @@
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-![Express.js](![image](https://github.com/salvadormartin3z/salvadormartin3z/assets/67123399/638a2519-a3ac-44d4-8fb1-265316ef73c6))
+![Express.js](https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000)
 ![Django](https://img.icons8.com/color/48/000000/django.png)
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 ![PostgreSQL](https://img.icons8.com/color/48/postgreesql.png)
