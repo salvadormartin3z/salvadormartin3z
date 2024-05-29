@@ -5,7 +5,7 @@
 
 ## Portfolio
 
-[![Portfolio](https://img.icons8.com/color/48/000000/domain.png) Portfolio](https://salvadormartin3z.netlify.app/)
+[![Portfolio](https://img.icons8.com/color/48/000000/domain.png) ## Portfolio](https://salvadormartin3z.netlify.app/)
 
 ## LinkedIn
 
