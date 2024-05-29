@@ -1,12 +1,13 @@
-### Hi there 👋 
+## Hi there 👋 
 
 - 🔭 Highly interested in Machine Learning and Software Development.
 - 🌱 I like challenges, collaborating with others, and learning new things.
 
-### Portafolio
+## Portfolio
 
-- https://salvadormartin3z.netlify.app/
+[![Portfolio](https://img.icons8.com/ios-filled/50/000000/domain.png)](https://salvadormartin3z.netlify.app/)
 
-### LinkedIn
+## LinkedIn
 
-- https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000 https://www.linkedin.com/in/salvadormtz/
+[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/salvadormtz/)
+
