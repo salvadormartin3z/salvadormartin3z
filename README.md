@@ -14,7 +14,7 @@
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-![Express](https://img.icons8.com/color/48/000000/express.png)
+![Express](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg)
 ![Django](https://img.icons8.com/color/48/000000/django.png)
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 ![PostgreSQL](https://img.icons8.com/color/48/postgreesql.png)
