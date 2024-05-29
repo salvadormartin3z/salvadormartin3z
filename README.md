@@ -16,7 +16,6 @@
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![Django](https://img.icons8.com/color/48/000000/django.png)
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
-![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
