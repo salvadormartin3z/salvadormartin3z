@@ -7,7 +7,7 @@
 
 ## [![LinkedIn](https://img.icons8.com/color/18/000000/linkedin.png) LinkedIn](https://www.linkedin.com/in/salvadormtz/)
 
-## Some of My Technologies
+## STACK
 
 <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"></a>
