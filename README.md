@@ -13,7 +13,7 @@
 <a href="https://react.dev/" target="_blank"><img src="https://img.icons8.com/officel/48/react.png" alt="React"></a>
 <a href="https://redux.js.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"></a>
 <a href="https://graphql.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL"></a>
-<a href="https://jestjs.io/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png" alt="Jest"></a>
+<a href="https://jestjs.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/external-tal-revivo-color-tal-revivo/24/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png" alt="Jest"></a>
 <a href="https://angular.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/ios/48/express-js.png" alt="Express.js"></a>
