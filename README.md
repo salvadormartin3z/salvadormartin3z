@@ -8,13 +8,13 @@
 
 ## STACK
 
-<a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"></a>
-<a href="https://angular.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"></a>
 <a href="https://react.dev/" target="_blank"><img src="https://img.icons8.com/officel/48/react.png" alt="React"></a>
+<a href="https://angular.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/ios/48/express-js.png" alt="Express.js"></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"></a>
