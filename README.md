@@ -27,4 +27,4 @@
 <a href="https://sass-lang.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS"></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman"></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman"></a>
