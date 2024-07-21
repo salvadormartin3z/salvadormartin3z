@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-🌱 I'm a skilled software developer proficient in JavaScript, TypeScript, and Python, with expertise in frameworks such as React, Angular, and Node.js. I'm a quick learner who collaborates closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life! 🔭
+🌱 I'm a software developer with experience in JavaScript, TypeScript, and Python, and I've worked with frameworks like React, Angular, and Node.js. I enjoy learning new things and collaborating with clients to create effective, scalable, and user-friendly solutions. I'm excited about the opportunity to help bring your ideas to life! 🔭
 
 ## [![Portfolio](https://img.icons8.com/color/18/000000/domain.png) Portfolio](https://salvadormartin3z.netlify.app/)
 
