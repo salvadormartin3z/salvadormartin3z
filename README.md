@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-🌱  I'm a software developer with experience in JavaScript, TypeScript, and Python, and I've worked with frameworks like React, Angular, and Express (Node.js). I enjoy learning new things and collaborating with clients to create effective, scalable, and user-friendly solutions. I'm excited about the opportunity to help bring your ideas to life! 🔭
+🌱  I'm a software developer with experience in JavaScript, TypeScript, and Python, and I've worked with frameworks like React, Angular, and Express (Node.js). I enjoy learning new things and collaborating with people to create effective, scalable, and user-friendly solutions. I'm excited about the opportunity to help bring your ideas to life! 🔭
 
 ## [![Portfolio](https://img.icons8.com/color/18/000000/domain.png) Portfolio](https://salvadormartin3z.netlify.app/)
 
