@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-🌱I'm a Fullstack JavaScript Engineer with experience in TypeScript, and Python, and I've worked with frameworks like React, Angular, Express (Node.js) and Django. I enjoy learning new things and collaborating with others to create effective, scalable, and user-friendly solutions. I'm excited about the opportunity to help bring your ideas to life! 🔭
+🌱I'm a Fullstack JavaScript Engineer with experience in TypeScript, and Python, and I've worked with frameworks like React, Angular, Express (Node.js) and Django. I enjoy learning new things and collaborating with others to create effective, scalable, and user-friendly solutions. 🔭
 
 ## [![Portfolio](https://img.icons8.com/color/18/000000/domain.png) Portfolio](https://salvadormartin3z.netlify.app/)
 
