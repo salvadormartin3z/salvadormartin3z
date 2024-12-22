@@ -4,7 +4,7 @@
 
 ## [![Portfolio](https://img.icons8.com/color/18/000000/domain.png) Portfolio](https://kristophermt3z.netlify.app/)
 
-## [![LinkedIn](https://img.icons8.com/color/18/000000/linkedin.png) LinkedIn](https://www.linkedin.com/in/salvadormtz/)
+## [![LinkedIn](https://img.icons8.com/color/18/000000/linkedin.png) LinkedIn](https://www.linkedin.com/in/kristophermt3z/)
 
 ## STACK
 
